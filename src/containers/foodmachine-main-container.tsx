@@ -83,12 +83,13 @@ export default function FoodMachineMain() {
 }
 
 const FoodMachineMainWrapper = styled.div`
-  width: 200px;
+  width: 400px;
   padding: 20px;
+  margin: 0 auto;
 `;
 
 const FoodMachineMainFlex = styled.div`
-  width: 200px;
+  width: 400px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
